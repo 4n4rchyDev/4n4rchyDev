@@ -2,7 +2,7 @@
 
 ---
 
-<a href="https://github.com/4n4rchyDev"> <img src="https://discord.c99.nl/widget/theme-4/805842079091654696.png"> </a> <a href="https://github.com/4n4rchyDev"><img src="https://discord.c99.nl/widget/theme-4/855404028892938241.png"> </a>
+<a href="https://github.com/4n4rchyDev"> <img src="https://discord.c99.nl/widget/theme-4/805842079091654696.png"> </a>
 
 ---
 
