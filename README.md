@@ -11,9 +11,4 @@
 
 ---
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/khddev/count.svg" />
-</p>
-
 ![Banner](https://data.whicdn.com/images/244251337/original.gif)
